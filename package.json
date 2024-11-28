@@ -1,7 +1,7 @@
 {
-  "name": "oboe",
+  "name": "fb-oboe",
   "title": "Oboe.js",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "description": "Oboe.js reads json, giving you the objects as they are found without waiting for the stream to finish",
   "main": "./dist/oboe-node.js",
   "browser": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jimhigson/oboe.js.git"
+    "url": "https://github.com/Abdelmageed/oboe.js"
   },
   "keywords": [
     "json",
